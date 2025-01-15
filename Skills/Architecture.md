@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns: 👂 heard
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -10,7 +10,7 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
+  - Modularity: 👂 heard
   - Subsystems
   - Directories
   - Leaking abstractions
@@ -34,7 +34,7 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 👂 heard
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
