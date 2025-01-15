@@ -4,27 +4,27 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language h
+  - Paradigm k
+  - Programm u
+  - Programming paradigm k
+  - Programming language u
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
-  - Framework
-  - Platform
+  - Framework h
+  - Platform h
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
   - Code reuse
@@ -32,48 +32,48 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value h
-  - Identifier h
-  - Variable h
-  - Constant h
-  - Scalar h
-  - Literal
-  - Expression h
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function h
-  - Procedure
-  - Method h
-  - Class
+  - Function u
+  - Procedure k
+  - Method u
+  - Class h
   - Prototype
   - Event
-  - Type h
+  - Type u
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops h
-  - Assignment h
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Lexical scope k
+  - Code block k
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression h
+  - Interface k
+  - Namespaces k
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case k
+  - Kebab case k
+  - Trailing commas u
+  - Return early k
+  - Fail-fast k
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types u
+  - Reference types u
+  - Type systems k
+  - Strong typing k
+  - Weak typing u
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing k
+  - Dynamic typing u
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature h
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback u
   - Listener
-  - Composition
-  - Pipe
+  - Composition k
+  - Pipe k
   - Memoize
   - Wrapper
   - Functor
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure u
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection k
+  - Set k
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
+  - Queue h
+  - Stack h
+  - Deque h
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Mutable state u
+  - Immutable state u
+  - Serialization k
+  - String parsing k
+  - JSON k
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,22 +157,22 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review u
   - Exception
   - Unittesting
-  - git h
-  - Github h
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers h
+  - Hard code h
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux u
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards

@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop h
+  - `try..catch` k
   - Non-blocking
-  - Async I/O
+  - Async I/O h
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers h
   - `setImmediate`
   - `nextTick`
   - AbortController

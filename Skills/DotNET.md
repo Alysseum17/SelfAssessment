@@ -1,7 +1,7 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET h
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
