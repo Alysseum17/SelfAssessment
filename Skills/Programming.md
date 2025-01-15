@@ -11,7 +11,7 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
   - Library
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value h
+  - Identifier h
+  - Variable h
+  - Constant h
+  - Scalar h
   - Literal
-  - Expression
+  - Expression h
   - Heap
-  - Function
+  - Function h
   - Procedure
-  - Method
+  - Method h
   - Class
   - Prototype
   - Event
-  - Type
+  - Type h
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
-  - Assignment
+  - Loops h
+  - Assignment h
   - Regular expression
   - Interface
   - Namespaces
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github h
   - Docker
   - Kubernetes
   - GCC
